@@ -1,0 +1,23 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.lock
+*.iml
+.idea/
+.vscode/
+flutter_*.png
+*.log
+
+# Server
+server/.dart_tool/
+server/.pub/
+server/build/
+
+# OS
+.DS_Store
+Thumbs.db
+start_uma_cards.bat

@@ -1,0 +1,360 @@
+[
+  {
+    "id": "ssr_kitasan_black",
+    "name": "Kitasan Black",
+    "title": "Road to the Top",
+    "image": "C:\\Users\\stany",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 25,
+      "mood_effect": 30,
+      "power_bonus": 4,
+      "initial_bond": 35,
+      "specialty_priority": 65
+    },
+    "skills": ["Speed Star", "Black Thunder"],
+    "unique_effect": "Increases speed training appearance rate by 20%"
+  },
+  {
+    "id": "ssr_super_creek",
+    "name": "Super Creek",
+    "title": "Creek of Miracles",
+    "image": "assets/images/cards/super_creek.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 22,
+      "initial_stamina": 35,
+      "initial_bond": 30,
+      "stamina_bonus": 4,
+      "wit_recovery": 25
+    },
+    "skills": ["Endurance Star", "Miracle Creek"],
+    "unique_effect": "Recovers energy when training on Wit facility"
+  },
+  {
+    "id": "ssr_gold_ship",
+    "name": "Gold Ship",
+    "title": "Golden Voyage",
+    "image": "assets/images/cards/gold_ship.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 40,
+      "training_effectiveness": 10,
+      "mood_effect": 20,
+      "initial_bond": 20,
+      "event_effectiveness": 35,
+      "speed_bonus": 3,
+      "stamina_bonus": 3,
+      "power_bonus": 3,
+      "guts_bonus": 3,
+      "wit_bonus": 3
+    },
+    "skills": ["Golden Ship", "Voyager"],
+    "unique_effect": "+3 all stats, +10 energy recovery per event"
+  },
+  {
+    "id": "ssr_silence_suzuka",
+    "name": "Silence Suzuka",
+    "title": "Silent Star",
+    "image": "assets/images/cards/silence_suzuka.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 32,
+      "initial_speed": 30,
+      "specialty_priority": 65,
+      "speed_bonus": 5
+    },
+    "skills": ["Silent Star", "Escape Velocity"],
+    "unique_effect": "Increases escape ability training effect"
+  },
+  {
+    "id": "ssr_fine_motion",
+    "name": "Fine Motion",
+    "title": "Elegant Dancer",
+    "image": "assets/images/cards/fine_motion.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 25,
+      "power_bonus": 4,
+      "initial_bond": 30,
+      "race_bonus": 15,
+      "hint_levels": 3
+    },
+    "skills": ["Power Dancer", "Elegant Move"],
+    "unique_effect": "Increases Power training effect during races"
+  },
+  {
+    "id": "ssr_tokai_teio",
+    "name": "Tokai Teio",
+    "title": "Miracle Run",
+    "image": "assets/images/cards/tokai_teio.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 28,
+      "mood_effect": 60,
+      "race_bonus": 10,
+      "fan_bonus": 20,
+      "guts_bonus": 4
+    },
+    "skills": ["Miracle Run", "Last Spurt Hero"],
+    "unique_effect": "Increases last spurt performance dramatically"
+  },
+  {
+    "id": "ssr_nice_nature",
+    "name": "Nice Nature",
+    "title": "Third Time's the Charm",
+    "image": "assets/images/cards/nice_nature.png",
+    "type": "friend",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "initial_bond": 25,
+      "mood_effect": 15,
+      "event_effectiveness": 25
+    },
+    "skills": ["Lucky Break", "Determination"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_mejiro_mcqueen",
+    "name": "Mejiro McQueen",
+    "title": "Elegant Master",
+    "image": "assets/images/cards/mejiro_mcqueen.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 60,
+      "hint_levels": 3,
+      "wit_bonus": 5,
+      "initial_wit": 30
+    },
+    "skills": ["Master's Wisdom", "Elegant Strategy"],
+    "unique_effect": "Increases Skill Point gain by 60"
+  },
+  {
+    "id": "ssr_daiwa_scarlet",
+    "name": "Daiwa Scarlet",
+    "title": "Scarlet Sky",
+    "image": "assets/images/cards/daiwa_scarlet.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 30,
+      "power_bonus": 4,
+      "initial_bond": 30,
+      "hint_levels": 3,
+      "hint_frequency": 40
+    },
+    "skills": ["Scarlet Runner", "Sky High"],
+    "unique_effect": "Increases hint appearance rate significantly"
+  },
+  {
+    "id": "ssr_rice_shower",
+    "name": "Rice Shower",
+    "title": "Blue Rose",
+    "image": "assets/images/cards/rice_shower.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 20,
+      "initial_stamina": 30,
+      "stamina_bonus": 6,
+      "specialty_priority": 65,
+      "initial_bond": 30
+    },
+    "skills": ["Blue Rose", "Endurance Champion"],
+    "unique_effect": "Increases long distance race effectiveness"
+  },
+  {
+    "id": "sr_king_halo",
+    "name": "King Halo",
+    "title": "King's Pride",
+    "image": "assets/images/cards/king_halo.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 20,
+      "training_effectiveness": 15,
+      "initial_speed": 15,
+      "hint_levels": 2
+    },
+    "skills": ["Royal Speed", "King's Dash"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_grass_wonder",
+    "name": "Grass Wonder",
+    "title": "Wonder Charge",
+    "image": "assets/images/cards/grass_wonder.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 27,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "initial_bond": 25,
+      "race_bonus": 15
+    },
+    "skills": ["Wonder Guts", "Charge Up"],
+    "unique_effect": "Increases rain race performance"
+  },
+  {
+    "id": "ssr_symboli_rudolf",
+    "name": "Symboli Rudolf",
+    "title": "Emperor's Road",
+    "image": "assets/images/cards/symboli_rudolf.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 38,
+      "training_effectiveness": 25,
+      "initial_stamina": 35,
+      "stamina_bonus": 5,
+      "wit_recovery": 30,
+      "specialty_priority": 65
+    },
+    "skills": ["Emperor's Stamina", "Royal Endurance"],
+    "unique_effect": "Increases energy recovery after Wit training"
+  },
+  {
+    "id": "sr_sweep_tosho",
+    "name": "Sweep Tosho",
+    "title": "Sweeper",
+    "image": "assets/images/cards/sweep_tosho.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 21,
+      "training_effectiveness": 17,
+      "initial_speed": 20,
+      "speed_bonus": 3
+    },
+    "skills": ["Speed Sweep", "Clean Run"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_mihono_bourbon",
+    "name": "Mihono Bourbon",
+    "title": "Cyborg",
+    "image": "assets/images/cards/mihono_bourbon.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 28,
+      "mood_effect": 40,
+      "initial_stamina": 30,
+      "stamina_bonus": 5,
+      "initial_bond": 30
+    },
+    "skills": ["Cyborg Runner", "Pace Keeper"],
+    "unique_effect": "Increases pace-keeping ability"
+  },
+  {
+    "id": "ssr_narita_brian",
+    "name": "Narita Brian",
+    "title": "Shadow Roll",
+    "image": "assets/images/cards/narita_brian.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 40,
+      "training_effectiveness": 35,
+      "power_bonus": 6,
+      "initial_bond": 25,
+      "hint_levels": 3,
+      "race_bonus": 15
+    },
+    "skills": ["Shadow Roll", "Power Dash"],
+    "unique_effect": "Highest training effectiveness for Power type"
+  },
+  {
+    "id": "ssr_tamamo_cross",
+    "name": "Tamamo Cross",
+    "title": "Cross Attack",
+    "image": "assets/images/cards/tamamo_cross.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 20,
+      "initial_stamina": 30,
+      "initial_bond": 35,
+      "hint_levels": 3,
+      "stamina_bonus": 5
+    },
+    "skills": ["Cross Stamina", "Fox Run"],
+    "unique_effect": "High initial bond for fast friendship training"
+  },
+  {
+    "id": "ssr_twin_turbo",
+    "name": "Twin Turbo",
+    "title": "Turbo Engine",
+    "image": "assets/images/cards/twin_turbo.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 35,
+      "initial_guts": 30,
+      "guts_bonus": 4,
+      "race_bonus": 10,
+      "hint_frequency": 35
+    },
+    "skills": ["Turbo Dash", "Last Guts"],
+    "unique_effect": "Highest training effectiveness for Guts type"
+  },
+  {
+    "id": "ssr_air_groove",
+    "name": "Air Groove",
+    "title": "Empress",
+    "image": "assets/images/cards/air_groove.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 22,
+      "skill_pt_bonus": 50,
+      "wit_bonus": 6,
+      "initial_wit": 30,
+      "hint_levels": 3
+    },
+    "skills": ["Empress Wisdom", "Strategic Mind"],
+    "unique_effect": "Increases Skill Point gain +50"
+  },
+  {
+    "id": "ssr_el_condor_pasa",
+    "name": "El Condor Pasa",
+    "title": "Condor Flight",
+    "image": "assets/images/cards/el_condor_pasa.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 29,
+      "power_bonus": 4,
+      "initial_bond": 30,
+      "race_bonus": 15,
+      "fan_bonus": 15
+    },
+    "skills": ["Condor Flight", "Power Surge"],
+    "unique_effect": "Increases race bonus and fan gain"
+  }
+]
