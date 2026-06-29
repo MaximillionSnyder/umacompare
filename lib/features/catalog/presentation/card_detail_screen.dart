@@ -1,18 +1,21 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../core/theme/uma_colors.dart';
 import '../../../core/constants/effects_list.dart';
 import '../../../shared/widgets/type_badge.dart';
 import '../../../shared/widgets/rarity_badge.dart';
 import '../../../shared/widgets/effect_bar.dart';
+import '../../../core/providers/repository_providers.dart';
 import '../domain/support_card_model.dart';
 
-class CardDetailScreen extends StatelessWidget {
+class CardDetailScreen extends ConsumerWidget {
   final SupportCard card;
 
   const CardDetailScreen({super.key, required this.card});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final typeColor = UmaColors.typeColor(card.type);
 
     return Scaffold(
@@ -32,7 +35,7 @@ class CardDetailScreen extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: [
-            _buildHeader(typeColor),
+            _buildHeader(typeColor, ref),
             _buildInfoSection(),
             _buildEffectsSection(),
             _buildExtraSection(context),
@@ -42,7 +45,9 @@ class CardDetailScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildHeader(Color typeColor) {
+  Widget _buildHeader(Color typeColor, WidgetRef ref) {
+    final repo = ref.read(cardRepositoryProvider);
+    final imageUrl = repo.imageUrl(card.image);
     return Container(
       decoration: BoxDecoration(
         gradient: LinearGradient(
@@ -71,13 +76,18 @@ class CardDetailScreen extends StatelessWidget {
             ),
             child: ClipRRect(
               borderRadius: BorderRadius.circular(16),
-              child: card.image.startsWith('assets/')
-                  ? Image.asset(card.image, fit: BoxFit.contain)
-                  : Container(
-                      color: UmaColors.cardElevated,
-                      child: const Icon(Icons.image,
-                          size: 80, color: UmaColors.textMuted),
-                    ),
+              child: CachedNetworkImage(
+                imageUrl: imageUrl,
+                fit: BoxFit.contain,
+                placeholder: (_, __) => Container(
+                  color: UmaColors.cardElevated,
+                  child: const Icon(Icons.image, size: 80, color: UmaColors.textMuted),
+                ),
+                errorWidget: (_, __, ___) => Container(
+                  color: UmaColors.cardElevated,
+                  child: const Icon(Icons.image, size: 80, color: UmaColors.textMuted),
+                ),
+              ),
             ),
           ),
         ],
