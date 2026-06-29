@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 import '../../../core/theme/uma_colors.dart';
 import '../../../core/constants/effects_list.dart';
 import '../../../features/catalog/domain/support_card_model.dart';
+import 'package:uma_cards/core/providers/repository_providers.dart';
 import 'type_badge.dart';
 import 'rarity_badge.dart';
 
-class UmaCardWidget extends StatelessWidget {
+class UmaCardWidget extends ConsumerWidget {
   final SupportCard card;
   final VoidCallback? onTap;
   final VoidCallback? onCompareToggle;
@@ -27,7 +30,7 @@ class UmaCardWidget extends StatelessWidget {
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final typeColor = UmaColors.typeColor(card.type);
     final typeGlow = UmaColors.typeGlow(card.type);
 
@@ -52,7 +55,7 @@ class UmaCardWidget extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            _buildImageSection(context, typeGlow),
+            _buildImageSection(context, ref, typeGlow),
             _buildInfoSection(context),
             _buildStatsSection(context),
           ],
@@ -61,7 +64,10 @@ class UmaCardWidget extends StatelessWidget {
     );
   }
 
-  Widget _buildImageSection(BuildContext context, Color typeGlow) {
+  Widget _buildImageSection(BuildContext context, WidgetRef ref, Color typeGlow) {
+    final repo = ref.read(cardRepositoryProvider);
+    final imageUrl = repo.imageUrl(card.image);
+
     return ClipRRect(
       borderRadius: const BorderRadius.vertical(top: Radius.circular(15)),
       child: Stack(
@@ -83,14 +89,13 @@ class UmaCardWidget extends StatelessWidget {
               child: Center(
                 child: ClipRRect(
                   borderRadius: BorderRadius.circular(8),
-                  child: card.image.startsWith('assets/')
-                      ? Image.asset(
-                          card.image,
-                          height: 150,
-                          fit: BoxFit.contain,
-                          errorBuilder: (_, __, ___) => _placeholderImage(),
-                        )
-                      : _placeholderImage(),
+                  child: CachedNetworkImage(
+                    imageUrl: imageUrl,
+                    height: 150,
+                    fit: BoxFit.contain,
+                    placeholder: (_, __) => _placeholderImage(),
+                    errorWidget: (_, __, ___) => _placeholderImage(),
+                  ),
                 ),
               ),
             ),
