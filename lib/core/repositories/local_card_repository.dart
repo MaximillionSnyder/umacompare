@@ -20,7 +20,7 @@ class LocalCardRepository implements CardRepository {
     final cards = await getAll();
     try {
       return cards.firstWhere((c) => c.id == id);
-    } catch (_) {
+    } on StateError {
       return null;
     }
   }
