@@ -1,11 +1,13 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
-import '../../catalog/domain/support_card_model.dart';
+import 'package:uma_cards/features/catalog/domain/support_card_model.dart';
+import 'card_repository.dart';
 
-class CardsRepository {
+class LocalCardRepository implements CardRepository {
   List<SupportCard>? _cached;
 
-  Future<List<SupportCard>> loadCards() async {
+  @override
+  Future<List<SupportCard>> getAll() async {
     if (_cached != null) return _cached!;
     final jsonStr = await rootBundle.loadString('assets/cards.json');
     final List<dynamic> jsonList = json.decode(jsonStr);
@@ -13,8 +15,9 @@ class CardsRepository {
     return _cached!;
   }
 
+  @override
   Future<SupportCard?> getById(String id) async {
-    final cards = await loadCards();
+    final cards = await getAll();
     try {
       return cards.firstWhere((c) => c.id == id);
     } catch (_) {
@@ -22,6 +25,7 @@ class CardsRepository {
     }
   }
 
+  @override
   List<SupportCard> filter({
     required List<SupportCard> cards,
     List<String> types = const [],
@@ -35,5 +39,11 @@ class CardsRepository {
           !c.name.toLowerCase().contains(search.toLowerCase())) return false;
       return true;
     }).toList();
+  }
+
+  @override
+  String imageUrl(String relativePath) {
+    // Pre-prod: served by HTTP server from build/web/assets/images/
+    return 'http://localhost:8080/assets/images/$relativePath';
   }
 }

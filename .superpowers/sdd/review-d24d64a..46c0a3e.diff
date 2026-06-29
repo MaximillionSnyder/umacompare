@@ -1,0 +1,10 @@
+# Review package: d24d64a..46c0a3e
+
+## Commits
+46c0a3e feat: add repository abstract interfaces
+
+## Files changed
+ lib/core/repositories/card_repository.dart | 13 +++++++++++++  lib/core/repositories/deck_repository.dart |  7 +++++++  2 files changed, 20 insertions(+)
+
+## Diff
+diff --git a/lib/core/repositories/card_repository.dart b/lib/core/repositories/card_repository.dart new file mode 100644 index 0000000..b0180a8 --- /dev/null +++ b/lib/core/repositories/card_repository.dart @@ -0,0 +1,13 @@ +import 'package:uma_cards/features/catalog/domain/support_card_model.dart'; + +abstract class CardRepository { +  Future<List<SupportCard>> getAll(); +  Future<SupportCard?> getById(String id); +  List<SupportCard> filter({ +    required List<SupportCard> cards, +    List<String> types = const [], +    List<String> rarities = const [], +    String search = '', +  }); +  String imageUrl(String relativePath); +} diff --git a/lib/core/repositories/deck_repository.dart b/lib/core/repositories/deck_repository.dart new file mode 100644 index 0000000..e508493 --- /dev/null +++ b/lib/core/repositories/deck_repository.dart @@ -0,0 +1,7 @@ +import 'package:uma_cards/features/decks/domain/deck_model.dart'; + +abstract class DeckRepository { +  Future<List<Deck>> getAll(); +  Future<void> save(Deck deck); +  Future<void> delete(String id); +}
