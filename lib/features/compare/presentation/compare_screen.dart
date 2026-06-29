@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 import '../../../core/theme/uma_colors.dart';
 import '../../../core/constants/effects_list.dart';
+import '../../../core/providers/repository_providers.dart';
 import '../presentation/compare_provider.dart';
 
 class CompareScreen extends ConsumerWidget {
@@ -88,6 +90,7 @@ class CompareScreen extends ConsumerWidget {
 
   Widget _buildCardHeaders(
       BuildContext context, WidgetRef ref, List cards) {
+    final repo = ref.read(cardRepositoryProvider);
     return Container(
       padding: const EdgeInsets.all(12),
       color: UmaColors.surface,
@@ -110,13 +113,20 @@ class CompareScreen extends ConsumerWidget {
                     ),
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(11),
-                      child: card.image.startsWith('assets/')
-                          ? Image.asset(card.image, fit: BoxFit.contain)
-                          : Container(
-                              color: UmaColors.cardElevated,
-                              child: const Icon(Icons.image,
-                                  color: UmaColors.textMuted),
-                            ),
+                      child: CachedNetworkImage(
+                        imageUrl: repo.imageUrl(card.image),
+                        fit: BoxFit.contain,
+                        placeholder: (_, __) => Container(
+                          color: UmaColors.cardElevated,
+                          child: const Icon(Icons.image,
+                              color: UmaColors.textMuted),
+                        ),
+                        errorWidget: (_, __, ___) => Container(
+                          color: UmaColors.cardElevated,
+                          child: const Icon(Icons.image,
+                              color: UmaColors.textMuted),
+                        ),
+                      ),
                     ),
                   ),
                   Text(
