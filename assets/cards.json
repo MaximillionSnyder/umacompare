@@ -3,7 +3,7 @@
     "id": "ssr_kitasan_black",
     "name": "Kitasan Black",
     "title": "Road to the Top",
-    "image": "assets/images/cards/kitasan_black.png",
+    "image": "cards/kitasan_black.png",
     "type": "speed",
     "rarity": "ssr",
     "effects": {
@@ -21,7 +21,7 @@
     "id": "ssr_super_creek",
     "name": "Super Creek",
     "title": "Creek of Miracles",
-    "image": "assets/images/cards/super_creek.png",
+    "image": "cards/super_creek.png",
     "type": "stamina",
     "rarity": "ssr",
     "effects": {
@@ -39,7 +39,7 @@
     "id": "ssr_gold_ship",
     "name": "Gold Ship",
     "title": "Golden Voyage",
-    "image": "assets/images/cards/gold_ship.png",
+    "image": "cards/gold_ship.png",
     "type": "speed",
     "rarity": "ssr",
     "effects": {
@@ -61,7 +61,7 @@
     "id": "ssr_silence_suzuka",
     "name": "Silence Suzuka",
     "title": "Silent Star",
-    "image": "assets/images/cards/silence_suzuka.png",
+    "image": "cards/silence_suzuka.png",
     "type": "speed",
     "rarity": "ssr",
     "effects": {
@@ -78,7 +78,7 @@
     "id": "ssr_fine_motion",
     "name": "Fine Motion",
     "title": "Elegant Dancer",
-    "image": "assets/images/cards/fine_motion.png",
+    "image": "cards/fine_motion.png",
     "type": "power",
     "rarity": "ssr",
     "effects": {
@@ -96,7 +96,7 @@
     "id": "ssr_tokai_teio",
     "name": "Tokai Teio",
     "title": "Miracle Run",
-    "image": "assets/images/cards/tokai_teio.png",
+    "image": "cards/tokai_teio.png",
     "type": "guts",
     "rarity": "ssr",
     "effects": {
@@ -111,10 +111,10 @@
     "unique_effect": "Increases last spurt performance dramatically"
   },
   {
-    "id": "ssr_nice_nature",
+    "id": "sr_nice_nature",
     "name": "Nice Nature",
     "title": "Third Time's the Charm",
-    "image": "assets/images/cards/nice_nature.png",
+    "image": "cards/nice_nature.png",
     "type": "friend",
     "rarity": "sr",
     "effects": {
@@ -131,7 +131,7 @@
     "id": "ssr_mejiro_mcqueen",
     "name": "Mejiro McQueen",
     "title": "Elegant Master",
-    "image": "assets/images/cards/mejiro_mcqueen.png",
+    "image": "cards/mejiro_mcqueen.png",
     "type": "wit",
     "rarity": "ssr",
     "effects": {
@@ -149,7 +149,7 @@
     "id": "ssr_daiwa_scarlet",
     "name": "Daiwa Scarlet",
     "title": "Scarlet Sky",
-    "image": "assets/images/cards/daiwa_scarlet.png",
+    "image": "cards/daiwa_scarlet.png",
     "type": "power",
     "rarity": "ssr",
     "effects": {
@@ -167,7 +167,7 @@
     "id": "ssr_rice_shower",
     "name": "Rice Shower",
     "title": "Blue Rose",
-    "image": "assets/images/cards/rice_shower.png",
+    "image": "cards/rice_shower.png",
     "type": "stamina",
     "rarity": "ssr",
     "effects": {
@@ -185,7 +185,7 @@
     "id": "sr_king_halo",
     "name": "King Halo",
     "title": "King's Pride",
-    "image": "assets/images/cards/king_halo.png",
+    "image": "cards/king_halo.png",
     "type": "speed",
     "rarity": "sr",
     "effects": {
@@ -201,7 +201,7 @@
     "id": "ssr_grass_wonder",
     "name": "Grass Wonder",
     "title": "Wonder Charge",
-    "image": "assets/images/cards/grass_wonder.png",
+    "image": "cards/grass_wonder.png",
     "type": "guts",
     "rarity": "ssr",
     "effects": {
@@ -219,7 +219,7 @@
     "id": "ssr_symboli_rudolf",
     "name": "Symboli Rudolf",
     "title": "Emperor's Road",
-    "image": "assets/images/cards/symboli_rudolf.png",
+    "image": "cards/symboli_rudolf.png",
     "type": "stamina",
     "rarity": "ssr",
     "effects": {
@@ -237,7 +237,7 @@
     "id": "sr_sweep_tosho",
     "name": "Sweep Tosho",
     "title": "Sweeper",
-    "image": "assets/images/cards/sweep_tosho.png",
+    "image": "cards/sweep_tosho.png",
     "type": "speed",
     "rarity": "sr",
     "effects": {
@@ -253,7 +253,7 @@
     "id": "ssr_mihono_bourbon",
     "name": "Mihono Bourbon",
     "title": "Cyborg",
-    "image": "assets/images/cards/mihono_bourbon.png",
+    "image": "cards/mihono_bourbon.png",
     "type": "stamina",
     "rarity": "ssr",
     "effects": {
@@ -271,7 +271,7 @@
     "id": "ssr_narita_brian",
     "name": "Narita Brian",
     "title": "Shadow Roll",
-    "image": "assets/images/cards/narita_brian.png",
+    "image": "cards/narita_brian.png",
     "type": "power",
     "rarity": "ssr",
     "effects": {
@@ -289,7 +289,7 @@
     "id": "ssr_tamamo_cross",
     "name": "Tamamo Cross",
     "title": "Cross Attack",
-    "image": "assets/images/cards/tamamo_cross.png",
+    "image": "cards/tamamo_cross.png",
     "type": "stamina",
     "rarity": "ssr",
     "effects": {
@@ -307,7 +307,7 @@
     "id": "ssr_twin_turbo",
     "name": "Twin Turbo",
     "title": "Turbo Engine",
-    "image": "assets/images/cards/twin_turbo.png",
+    "image": "cards/twin_turbo.png",
     "type": "guts",
     "rarity": "ssr",
     "effects": {
@@ -325,7 +325,7 @@
     "id": "ssr_air_groove",
     "name": "Air Groove",
     "title": "Empress",
-    "image": "assets/images/cards/air_groove.png",
+    "image": "cards/air_groove.png",
     "type": "wit",
     "rarity": "ssr",
     "effects": {
@@ -343,7 +343,7 @@
     "id": "ssr_el_condor_pasa",
     "name": "El Condor Pasa",
     "title": "Condor Flight",
-    "image": "assets/images/cards/el_condor_pasa.png",
+    "image": "cards/el_condor_pasa.png",
     "type": "power",
     "rarity": "ssr",
     "effects": {
@@ -356,5 +356,3182 @@
     },
     "skills": ["Condor Flight", "Power Surge"],
     "unique_effect": "Increases race bonus and fan gain"
+  },
+  {
+    "id": "ssr_special_week",
+    "name": "Special Week",
+    "title": "Made for the Turf",
+    "image": "cards/special_week.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 38,
+      "training_effectiveness": 30,
+      "initial_speed": 35,
+      "speed_bonus": 5,
+      "specialty_priority": 70,
+      "initial_bond": 25
+    },
+    "skills": ["Special Speed", "Weekend Runner"],
+    "unique_effect": "Increases speed training effectiveness by 30%"
+  },
+  {
+    "id": "ssr_maruzensky",
+    "name": "Maruzensky",
+    "title": "Mr. Civilian",
+    "image": "cards/maruzensky.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 25,
+      "initial_speed": 25,
+      "hint_levels": 3,
+      "hint_frequency": 45,
+      "speed_bonus": 4
+    },
+    "skills": ["Civilian Dash", "Speed Master"],
+    "unique_effect": "Increases hint frequency for speed skills"
+  },
+  {
+    "id": "ssr_oguri_cap",
+    "name": "Oguri Cap",
+    "title": "The Living Legend",
+    "image": "cards/oguri_cap.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 28,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 20,
+      "fan_bonus": 20
+    },
+    "skills": ["Legendary Power", "Cap's Charge"],
+    "unique_effect": "Increases race and fan bonuses by 20%"
+  },
+  {
+    "id": "ssr_tm_opera_o",
+    "name": "T.M. Opera O",
+    "title": "Opera King",
+    "image": "cards/tm_opera_o.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 24,
+      "initial_stamina": 35,
+      "stamina_bonus": 5,
+      "mood_effect": 30,
+      "initial_bond": 30
+    },
+    "skills": ["Opera's Stamina", "Royal Melody"],
+    "unique_effect": "Increases stamina training appearance rate"
+  },
+  {
+    "id": "sr_mejiro_ryan",
+    "name": "Mejiro Ryan",
+    "title": "Turbulent Wind",
+    "image": "cards/mejiro_ryan.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 16,
+      "initial_speed": 18,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Wind Runner", "Speed Burst"],
+    "unique_effect": null
+  },
+  {
+    "id": "r_narita_taishin",
+    "name": "Narita Taishin",
+    "title": "Shining Star",
+    "image": "cards/narita_taishin.png",
+    "type": "guts",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 10,
+      "initial_guts": 10,
+      "guts_bonus": 2
+    },
+    "skills": ["Guts Shine"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_seeking_the_pearl",
+    "name": "Seeking the Pearl",
+    "title": "Pearl Diver",
+    "image": "cards/seeking_the_pearl.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 55,
+      "hint_levels": 3,
+      "wit_bonus": 5,
+      "initial_wit": 30
+    },
+    "skills": ["Pearl Strategy", "Diver's Insight"],
+    "unique_effect": "Increases Skill Point gain by 55"
+  },
+  {
+    "id": "ssr_biwa_hayahide",
+    "name": "Biwa Hayahide",
+    "title": "Divine Wind",
+    "image": "cards/biwa_hayahide.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 28,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "specialty_priority": 65,
+      "mood_effect": 25
+    },
+    "skills": ["Divine Wind", "Swift Strike"],
+    "unique_effect": "Increases early speed training efficiency"
+  },
+  {
+    "id": "ssr_mayano_top_gun",
+    "name": "Mayano Top Gun",
+    "title": "Top Gun",
+    "image": "cards/mayano_top_gun.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 28,
+      "race_bonus": 12,
+      "hint_levels": 2
+    },
+    "skills": ["Top Gun", "Maverick Power"],
+    "unique_effect": "Increases target race effectiveness"
+  },
+  {
+    "id": "ssr_hishi_amazon",
+    "name": "Hishi Amazon",
+    "title": "Amazon's Roar",
+    "image": "cards/hishi_amazon.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 26,
+      "guts_bonus": 5,
+      "initial_guts": 28,
+      "initial_bond": 30,
+      "hint_frequency": 30
+    },
+    "skills": ["Amazon Roar", "Spirit Charge"],
+    "unique_effect": "Recovers energy when training Guts"
+  },
+  {
+    "id": "sr_eishin_flash",
+    "name": "Eishin Flash",
+    "title": "Flash of Light",
+    "image": "cards/eishin_flash.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 24,
+      "training_effectiveness": 18,
+      "initial_speed": 20,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Flash Speed", "Light Dash"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_mejiro_dober",
+    "name": "Mejiro Dober",
+    "title": "Dober's Pride",
+    "image": "cards/mejiro_dober.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 23,
+      "initial_stamina": 30,
+      "stamina_bonus": 5,
+      "initial_bond": 32,
+      "wit_recovery": 30
+    },
+    "skills": ["Dober's Stamina", "Prideful Endurance"],
+    "unique_effect": "Recovers energy with Wit training"
+  },
+  {
+    "id": "ssr_ines_fujin",
+    "name": "Ines Fujin",
+    "title": "Storm Wind",
+    "image": "cards/ines_fujin.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "initial_speed": 28,
+      "speed_bonus": 5,
+      "mood_effect": 30,
+      "initial_bond": 25
+    },
+    "skills": ["Storm Runner", "Gale Force"],
+    "unique_effect": "Increases mood effect for speed training"
+  },
+  {
+    "id": "ssr_neo_universe",
+    "name": "Neo Universe",
+    "title": "Cosmic Dream",
+    "image": "cards/neo_universe.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 24,
+      "skill_pt_bonus": 60,
+      "hint_levels": 3,
+      "wit_bonus": 6,
+      "hint_frequency": 40
+    },
+    "skills": ["Cosmic Wisdom", "Star Gaze"],
+    "unique_effect": "Increases skill hints and levels"
+  },
+  {
+    "id": "ssr_admire_vega",
+    "name": "Admire Vega",
+    "title": "Northern Star",
+    "image": "cards/admire_vega.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 26,
+      "initial_stamina": 32,
+      "stamina_bonus": 5,
+      "specialty_priority": 68,
+      "initial_bond": 28
+    },
+    "skills": ["Vega's Endurance", "North Star Run"],
+    "unique_effect": "Increases specialty priority for stamina"
+  },
+  {
+    "id": "ssr_agnes_tachyon",
+    "name": "Agnes Tachyon",
+    "title": "Tachyon Burst",
+    "image": "cards/agnes_tachyon.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 32,
+      "power_bonus": 6,
+      "initial_bond": 25,
+      "hint_levels": 3,
+      "hint_frequency": 35
+    },
+    "skills": ["Tachyon Burst", "Particle Charge"],
+    "unique_effect": "Highest power training efficiency"
+  },
+  {
+    "id": "ssr_narita_top_road",
+    "name": "Narita Top Road",
+    "title": "Pinnacle Path",
+    "image": "cards/narita_top_road.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 30,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 15,
+      "fan_bonus": 15
+    },
+    "skills": ["Top Road", "Guts Climber"],
+    "unique_effect": "Increases race and fan gain for Guts"
+  },
+  {
+    "id": "ssr_manhattan_cafe",
+    "name": "Manhattan Cafe",
+    "title": "Midnight Brew",
+    "image": "cards/manhattan_cafe.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 22,
+      "skill_pt_bonus": 50,
+      "hint_levels": 3,
+      "wit_bonus": 5,
+      "wit_recovery": 30,
+      "initial_wit": 28
+    },
+    "skills": ["Cafe Wisdom", "Midnight Strategy"],
+    "unique_effect": "Recovers energy during Wit training"
+  },
+  {
+    "id": "ssr_zenno_rob_roy",
+    "name": "Zenno Rob Roy",
+    "title": "Steel Heart",
+    "image": "cards/zenno_rob_roy.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 25,
+      "initial_stamina": 33,
+      "stamina_bonus": 5,
+      "mood_effect": 25,
+      "initial_bond": 30
+    },
+    "skills": ["Steel Heart", "Roy's Stamina"],
+    "unique_effect": "Increases mood stability during training"
+  },
+  {
+    "id": "sr_copano_rickey",
+    "name": "Copano Rickey",
+    "title": "Fierce Spirit",
+    "image": "cards/copano_rickey.png",
+    "type": "power",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 23,
+      "training_effectiveness": 19,
+      "power_bonus": 3,
+      "initial_bond": 22,
+      "hint_levels": 2
+    },
+    "skills": ["Fierce Power", "Ricky's Charge"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_wonder_acute",
+    "name": "Wonder Acute",
+    "title": "Acute Mind",
+    "image": "cards/wonder_acute.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 26,
+      "skill_pt_bonus": 50,
+      "hint_levels": 4,
+      "wit_bonus": 5,
+      "initial_wit": 30
+    },
+    "skills": ["Acute Mind", "Wonder Wisdom"],
+    "unique_effect": "Increases hint level by 4"
+  },
+  {
+    "id": "ssr_vermilion",
+    "name": "Vermilion",
+    "title": "Crimson Flame",
+    "image": "cards/vermilion.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 18,
+      "fan_bonus": 18
+    },
+    "skills": ["Crimson Flame", "Vermilion Charge"],
+    "unique_effect": "Increases race performance significantly"
+  },
+  {
+    "id": "ssr_gold_city",
+    "name": "Gold City",
+    "title": "Golden Street",
+    "image": "cards/gold_city.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 27,
+      "initial_speed": 28,
+      "speed_bonus": 4,
+      "hint_frequency": 40,
+      "hint_levels": 3
+    },
+    "skills": ["Golden Sprint", "City Dash"],
+    "unique_effect": "Increases hint frequency for speed"
+  },
+  {
+    "id": "ssr_sakura_bakushin_o",
+    "name": "Sakura Bakushin O",
+    "title": "Explosive Speed",
+    "image": "cards/sakura_bakushin_o.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 40,
+      "training_effectiveness": 25,
+      "initial_speed": 35,
+      "speed_bonus": 6,
+      "specialty_priority": 70,
+      "initial_bond": 20
+    },
+    "skills": ["Bakushin Dash", "Sakura Storm"],
+    "unique_effect": "Highest speed stat bonus"
+  },
+  {
+    "id": "ssr_taiki_shuttle",
+    "name": "Taiki Shuttle",
+    "title": "Shuttle Run",
+    "image": "cards/taiki_shuttle.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 29,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "initial_bond": 28,
+      "mood_effect": 30
+    },
+    "skills": ["Shuttle Speed", "Taiki Flight"],
+    "unique_effect": "Increases training effectiveness for speed"
+  },
+  {
+    "id": "ssr_fuji_kiseki",
+    "name": "Fuji Kiseki",
+    "title": "Mt. Fuji's Miracle",
+    "image": "cards/fuji_kiseki.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 27,
+      "initial_stamina": 32,
+      "stamina_bonus": 5,
+      "mood_effect": 35,
+      "initial_bond": 25
+    },
+    "skills": ["Fuji's Miracle", "Mountain Endurance"],
+    "unique_effect": "Increases stamina training effectiveness"
+  },
+  {
+    "id": "sr_bubble_gum_joke",
+    "name": "Bubble Gum Joke",
+    "title": "Sweet Comedy",
+    "image": "cards/bubble_gum_joke.png",
+    "type": "friend",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 20,
+      "training_effectiveness": 15,
+      "mood_effect": 20,
+      "initial_bond": 20,
+      "event_effectiveness": 30
+    },
+    "skills": ["Sweet Joke", "Bubble Laugh"],
+    "unique_effect": null
+  },
+  {
+    "id": "r_heiden",
+    "name": "Heiden",
+    "title": "Hidden Power",
+    "image": "cards/heiden.png",
+    "type": "guts",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 12,
+      "training_effectiveness": 10,
+      "initial_guts": 12,
+      "guts_bonus": 2
+    },
+    "skills": ["Hidden Power"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_astromon",
+    "name": "Astromon",
+    "title": "Star Walker",
+    "image": "cards/astromon.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 29,
+      "training_effectiveness": 33,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 12,
+      "hint_frequency": 30
+    },
+    "skills": ["Star Walker", "Astromon Guts"],
+    "unique_effect": "Increases training effectiveness for Guts"
+  },
+  {
+    "id": "sr_hishi_akebono",
+    "name": "Hishi Akebono",
+    "title": "Dawn Runner",
+    "image": "cards/hishi_akebono.png",
+    "type": "power",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 17,
+      "power_bonus": 3,
+      "initial_bond": 20,
+      "race_bonus": 10
+    },
+    "skills": ["Dawn Charge", "Akebono Power"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_yamanin_zephyr",
+    "name": "Yamanin Zephyr",
+    "title": "Gentle Breeze",
+    "image": "cards/yamanin_zephyr.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 25,
+      "training_effectiveness": 20,
+      "initial_bond": 40,
+      "mood_effect": 30,
+      "event_effectiveness": 30,
+      "wit_recovery": 20
+    },
+    "skills": ["Zephyr's Cheer", "Breeze Support"],
+    "unique_effect": "Increases initial bond by 40 for fast friendship"
+  },
+  {
+    "id": "ssr_matikane_tannhauser",
+    "name": "Matikane Tannhauser",
+    "title": "Iron Will",
+    "image": "cards/matikane_tannhauser.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 24,
+      "initial_stamina": 35,
+      "stamina_bonus": 6,
+      "specialty_priority": 65,
+      "initial_bond": 28
+    },
+    "skills": ["Iron Will", "Tannhauser Stamina"],
+    "unique_effect": "Increases stamina bonus significantly"
+  },
+  {
+    "id": "sr_sakura_laurel",
+    "name": "Sakura Laurel",
+    "title": "Laurel Wreath",
+    "image": "cards/sakura_laurel.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 21,
+      "training_effectiveness": 16,
+      "initial_speed": 18,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Laurel Dash", "Sakura Sprint"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_narita_brian_alt",
+    "name": "Narita Brian",
+    "title": "Blazing Soul",
+    "image": "cards/narita_brian_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 38,
+      "training_effectiveness": 33,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 20,
+      "fan_bonus": 20
+    },
+    "skills": ["Blazing Power", "Soul Charge"],
+    "unique_effect": "Critical power training boost"
+  },
+  {
+    "id": "ssr_meisho_doto",
+    "name": "Meisho Doto",
+    "title": "Doto's Poem",
+    "image": "cards/meisho_doto.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 22,
+      "initial_stamina": 30,
+      "stamina_bonus": 4,
+      "hint_levels": 3,
+      "wit_recovery": 25
+    },
+    "skills": ["Poetic Endurance", "Doto's Rhythm"],
+    "unique_effect": "Increases hint level for stamina skills"
+  },
+  {
+    "id": "ssr_daitaku_helios",
+    "name": "Daitaku Helios",
+    "title": "Sun Runner",
+    "image": "cards/daitaku_helios.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 26,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "mood_effect": 35,
+      "initial_bond": 25
+    },
+    "skills": ["Helios Dash", "Sunlight Sprint"],
+    "unique_effect": "Increases mood effect for speed training"
+  },
+  {
+    "id": "sr_win_variation",
+    "name": "Win Variation",
+    "title": "Victory Dance",
+    "image": "cards/win_variation.png",
+    "type": "friend",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 16,
+      "initial_bond": 25,
+      "mood_effect": 20,
+      "event_effectiveness": 25
+    },
+    "skills": ["Victory Dance", "Win Cheer"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_satono_diamond",
+    "name": "Satono Diamond",
+    "title": "Diamond Princess",
+    "image": "cards/satono_diamond.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 32,
+      "hint_levels": 3,
+      "hint_frequency": 35
+    },
+    "skills": ["Diamond Power", "Princess Charge"],
+    "unique_effect": "Increases hint probability for power skills"
+  },
+  {
+    "id": "ssr_kitasan_black_alt",
+    "name": "Kitasan Black",
+    "title": "Northern Ace",
+    "image": "cards/kitasan_black_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 28,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "specialty_priority": 70,
+      "initial_bond": 30
+    },
+    "skills": ["Northern Ace", "Black Flash"],
+    "unique_effect": "Increased speed specialty priority"
+  },
+  {
+    "id": "ssr_duramante",
+    "name": "Duramente",
+    "title": "Durable Heart",
+    "image": "cards/duramante.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 26,
+      "initial_stamina": 35,
+      "stamina_bonus": 5,
+      "initial_bond": 30,
+      "wit_recovery": 30
+    },
+    "skills": ["Durable Heart", "Iron Lung"],
+    "unique_effect": "Increases stamina recovery efficiency"
+  },
+  {
+    "id": "ssr_sound_barrier",
+    "name": "Sound Barrier",
+    "title": "Sonic Boom",
+    "image": "cards/sound_barrier.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 30,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "hint_levels": 3,
+      "hint_frequency": 35
+    },
+    "skills": ["Sonic Boom", "Sound Dash"],
+    "unique_effect": "Increases speed skill hint frequency"
+  },
+  {
+    "id": "ssr_air_spinel",
+    "name": "Air Spinel",
+    "title": "Crystal Wind",
+    "image": "cards/air_spinel.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 55,
+      "hint_levels": 3,
+      "wit_bonus": 6,
+      "initial_wit": 32
+    },
+    "skills": ["Crystal Strategy", "Spinel Wisdom"],
+    "unique_effect": "Increases skill point and wit bonus"
+  },
+  {
+    "id": "sr_mejiro_mcqueen_alt",
+    "name": "Mejiro McQueen",
+    "title": "Elegant Lady",
+    "image": "cards/mejiro_mcqueen_alt.png",
+    "type": "wit",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "initial_wit": 20,
+      "wit_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Elegant Grace", "McQueen's Wisdom"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_oguri_cap_alt",
+    "name": "Oguri Cap",
+    "title": "Legendary Ace",
+    "image": "cards/oguri_cap_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 38,
+      "training_effectiveness": 30,
+      "power_bonus": 6,
+      "initial_bond": 28,
+      "race_bonus": 20,
+      "fan_bonus": 25
+    },
+    "skills": ["Legendary Ace", "Cap's Power"],
+    "unique_effect": "Highest fan gain for Power type"
+  },
+  {
+    "id": "r_tokai_teio_alt",
+    "name": "Tokai Teio",
+    "title": "Miracle Child",
+    "image": "cards/tokai_teio_alt.png",
+    "type": "guts",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_guts": 15,
+      "guts_bonus": 2
+    },
+    "skills": ["Miracle Guts"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_special_week_alt",
+    "name": "Special Week",
+    "title": "Turf Queen",
+    "image": "cards/special_week_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 28,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "specialty_priority": 68,
+      "initial_bond": 28
+    },
+    "skills": ["Turf Queen", "Weekend Special"],
+    "unique_effect": "Increases turf race performance"
+  },
+  {
+    "id": "ssr_mihono_bourbon_alt",
+    "name": "Mihono Bourbon",
+    "title": "Perfect Machine",
+    "image": "cards/mihono_bourbon_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 28,
+      "initial_stamina": 32,
+      "stamina_bonus": 5,
+      "mood_effect": 35,
+      "initial_bond": 30
+    },
+    "skills": ["Perfect Machine", "Bourbon System"],
+    "unique_effect": "Increases training consistency"
+  },
+  {
+    "id": "ssr_el_condor_pasa_alt",
+    "name": "El Condor Pasa",
+    "title": "Soaring Eagle",
+    "image": "cards/el_condor_pasa_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 28,
+      "race_bonus": 18,
+      "fan_bonus": 18
+    },
+    "skills": ["Soaring Eagle", "Condor Power"],
+    "unique_effect": "Increases race effectiveness for Power"
+  },
+  {
+    "id": "sr_rice_shower_alt",
+    "name": "Rice Shower",
+    "title": "Gentle Rain",
+    "image": "cards/rice_shower_alt.png",
+    "type": "stamina",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 17,
+      "initial_stamina": 20,
+      "stamina_bonus": 3,
+      "initial_bond": 20
+    },
+    "skills": ["Gentle Rain", "Rice's Support"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_tamamo_cross_alt",
+    "name": "Tamamo Cross",
+    "title": "Nine-Tailed Fox",
+    "image": "cards/tamamo_cross_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 24,
+      "initial_stamina": 32,
+      "initial_bond": 35,
+      "stamina_bonus": 5,
+      "hint_levels": 3
+    },
+    "skills": ["Nine-Tails", "Fox Flame"],
+    "unique_effect": "High bond gain for stamina training"
+  },
+  {
+    "id": "r_gold_ship_alt",
+    "name": "Gold Ship",
+    "title": "Golden Trickster",
+    "image": "cards/gold_ship_alt.png",
+    "type": "speed",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_speed": 15,
+      "speed_bonus": 2
+    },
+    "skills": ["Trickster Run"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_silence_suzuka_alt",
+    "name": "Silence Suzuka",
+    "title": "Silent Night",
+    "image": "cards/silence_suzuka_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 30,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "specialty_priority": 68,
+      "mood_effect": 30
+    },
+    "skills": ["Silent Night", "Escape Dream"],
+    "unique_effect": "Increases escape ability effectiveness"
+  },
+  {
+    "id": "ssr_maruzensky_alt",
+    "name": "Maruzensky",
+    "title": "Free Spirit",
+    "image": "cards/maruzensky_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 26,
+      "initial_speed": 28,
+      "hint_levels": 3,
+      "hint_frequency": 50,
+      "speed_bonus": 4
+    },
+    "skills": ["Free Spirit", "Civilian Run"],
+    "unique_effect": "Highest hint frequency for speed"
+  },
+  {
+    "id": "ssr_grass_wonder_alt",
+    "name": "Grass Wonder",
+    "title": "Green Flash",
+    "image": "cards/grass_wonder_alt.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 28,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 15,
+      "hint_frequency": 35
+    },
+    "skills": ["Green Flash", "Grass Sprint"],
+    "unique_effect": "Increases training effectiveness for Guts"
+  },
+  {
+    "id": "ssr_air_groove_alt",
+    "name": "Air Groove",
+    "title": "Royal Empress",
+    "image": "cards/air_groove_alt.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 24,
+      "skill_pt_bonus": 55,
+      "wit_bonus": 6,
+      "initial_wit": 32,
+      "hint_levels": 3
+    },
+    "skills": ["Royal Wisdom", "Empress Strategy"],
+    "unique_effect": "High skill point gain for Wit"
+  },
+  {
+    "id": "sr_fine_motion_alt",
+    "name": "Fine Motion",
+    "title": "Graceful Dance",
+    "image": "cards/fine_motion_alt.png",
+    "type": "power",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "power_bonus": 3,
+      "initial_bond": 22,
+      "hint_levels": 2
+    },
+    "skills": ["Graceful Dance", "Fine Power"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_neptune",
+    "name": "Neptune",
+    "title": "Ocean King",
+    "image": "cards/neptune.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 26,
+      "initial_stamina": 34,
+      "stamina_bonus": 5,
+      "wit_recovery": 35,
+      "initial_bond": 28
+    },
+    "skills": ["Ocean King", "Tidal Wave"],
+    "unique_effect": "Increases Wit recovery after stamina training"
+  },
+  {
+    "id": "ssr_jupiter",
+    "name": "Jupiter",
+    "title": "Thunder God",
+    "image": "cards/jupiter.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 31,
+      "power_bonus": 6,
+      "initial_bond": 26,
+      "race_bonus": 15,
+      "hint_levels": 3
+    },
+    "skills": ["Thunder God", "Jupiter's Bolt"],
+    "unique_effect": "Increases power training effectiveness"
+  },
+  {
+    "id": "ssr_venus",
+    "name": "Venus",
+    "title": "Lovely Star",
+    "image": "cards/venus.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 22,
+      "initial_bond": 38,
+      "mood_effect": 35,
+      "event_effectiveness": 30,
+      "wit_recovery": 25
+    },
+    "skills": ["Venus Love", "Star Support"],
+    "unique_effect": "High friendship and mood effect"
+  },
+  {
+    "id": "ssr_saturn",
+    "name": "Saturn",
+    "title": "Ring of Light",
+    "image": "cards/saturn.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 24,
+      "skill_pt_bonus": 58,
+      "hint_levels": 3,
+      "wit_bonus": 6,
+      "initial_wit": 30
+    },
+    "skills": ["Ring Strategy", "Saturn Wisdom"],
+    "unique_effect": "Increases skill point gain by 58"
+  },
+  {
+    "id": "ssr_mercury",
+    "name": "Mercury",
+    "title": "Swift Wing",
+    "image": "cards/mercury.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "initial_speed": 33,
+      "speed_bonus": 5,
+      "specialty_priority": 68,
+      "initial_bond": 26
+    },
+    "skills": ["Swift Wing", "Mercury Dash"],
+    "unique_effect": "Increased speed training priority"
+  },
+  {
+    "id": "ssr_mars",
+    "name": "Mars",
+    "title": "Red Planet",
+    "image": "cards/mars.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 30,
+      "guts_bonus": 5,
+      "initial_guts": 32,
+      "race_bonus": 15,
+      "fan_bonus": 20
+    },
+    "skills": ["Red Planet", "Mars Charge"],
+    "unique_effect": "Increases guts and fan bonuses"
+  },
+  {
+    "id": "sr_tsurumaru_miracle",
+    "name": "Tsurumaru Miracle",
+    "title": "Wonder Boy",
+    "image": "cards/tsurumaru_miracle.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 23,
+      "training_effectiveness": 18,
+      "initial_speed": 20,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Miracle Runner", "Tsurumaru Dash"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_mejiro_arnold",
+    "name": "Mejiro Arnold",
+    "title": "Iron Horse",
+    "image": "cards/mejiro_arnold.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 25,
+      "initial_stamina": 33,
+      "stamina_bonus": 5,
+      "mood_effect": 30,
+      "specialty_priority": 65
+    },
+    "skills": ["Iron Horse", "Arnold Endurance"],
+    "unique_effect": "Increases stamina specialty appearance"
+  },
+  {
+    "id": "r_mejiro_alden",
+    "name": "Mejiro Alden",
+    "title": "Forest Runner",
+    "image": "cards/mejiro_alden.png",
+    "type": "speed",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_speed": 14,
+      "speed_bonus": 2
+    },
+    "skills": ["Forest Run"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_mejiro_palma",
+    "name": "Mejiro Palma",
+    "title": "Palm Tree",
+    "image": "cards/mejiro_palma.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 26,
+      "training_effectiveness": 20,
+      "initial_bond": 35,
+      "mood_effect": 35,
+      "event_effectiveness": 30,
+      "wit_recovery": 25
+    },
+    "skills": ["Palm Cheer", "Tropical Support"],
+    "unique_effect": "High event effectiveness for friend type"
+  },
+  {
+    "id": "sr_mejiro_espar",
+    "name": "Mejiro Espan",
+    "title": "Spanish Wind",
+    "image": "cards/mejiro_espan.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 21,
+      "training_effectiveness": 16,
+      "initial_speed": 18,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Spanish Wind", "Espan Sprint"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_mejiro_arc",
+    "name": "Mejiro Arc",
+    "title": "Rainbow Bridge",
+    "image": "cards/mejiro_arc.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 24,
+      "skill_pt_bonus": 55,
+      "hint_levels": 3,
+      "wit_bonus": 5,
+      "initial_wit": 30
+    },
+    "skills": ["Rainbow Strategy", "Arc Mind"],
+    "unique_effect": "Increases skill point gain for Wit"
+  },
+  {
+    "id": "ssr_miracle_moon",
+    "name": "Miracle Moon",
+    "title": "Night Glow",
+    "image": "cards/miracle_moon.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 18,
+      "fan_bonus": 18
+    },
+    "skills": ["Night Glow", "Moon Power"],
+    "unique_effect": "Increases power training at night"
+  },
+  {
+    "id": "ssr_miracle_sky",
+    "name": "Miracle Sky",
+    "title": "Blue Horizon",
+    "image": "cards/miracle_sky.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 32,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 12,
+      "hint_frequency": 35
+    },
+    "skills": ["Blue Horizon", "Sky Guts"],
+    "unique_effect": "Higher training effectiveness for Guts"
+  },
+  {
+    "id": "sr_miracle_star",
+    "name": "Miracle Star",
+    "title": "Sparkle",
+    "image": "cards/miracle_star.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 17,
+      "initial_speed": 18,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Sparkle Run", "Star Dash"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_rain",
+    "name": "Miracle Rain",
+    "title": "Rain Drop",
+    "image": "cards/miracle_rain.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 24,
+      "initial_stamina": 32,
+      "stamina_bonus": 5,
+      "wit_recovery": 30,
+      "initial_bond": 30
+    },
+    "skills": ["Rain Drop", "Miracle Endurance"],
+    "unique_effect": "Recovers energy after stamina training"
+  },
+  {
+    "id": "ssr_miracle_bloom",
+    "name": "Miracle Bloom",
+    "title": "Flower Garden",
+    "image": "cards/miracle_bloom.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 20,
+      "initial_bond": 36,
+      "mood_effect": 35,
+      "event_effectiveness": 32,
+      "wit_recovery": 22
+    },
+    "skills": ["Flower Cheer", "Bloom Support"],
+    "unique_effect": "High event effectiveness and bond"
+  },
+  {
+    "id": "r_miracle_leaf",
+    "name": "Miracle Leaf",
+    "title": "Green Sprout",
+    "image": "cards/miracle_leaf.png",
+    "type": "guts",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 10,
+      "initial_guts": 12,
+      "guts_bonus": 2
+    },
+    "skills": ["Leaf Guts"],
+    "unique_effect": null
+  },
+  {
+    "id": "sr_miracle_snow",
+    "name": "Miracle Snow",
+    "title": "White Winter",
+    "image": "cards/miracle_snow.png",
+    "type": "power",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "power_bonus": 3,
+      "initial_bond": 22,
+      "hint_levels": 2
+    },
+    "skills": ["White Power", "Snow Charge"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_narita_top_road_alt",
+    "name": "Narita Top Road",
+    "title": "Summit",
+    "image": "cards/narita_top_road_alt.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 30,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 18,
+      "fan_bonus": 18
+    },
+    "skills": ["Summit Guts", "Top Climber"],
+    "unique_effect": "Increases top-tier race performance"
+  },
+  {
+    "id": "ssr_agnes_tachyon_alt",
+    "name": "Agnes Tachyon",
+    "title": "Quantum Leap",
+    "image": "cards/agnes_tachyon_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 38,
+      "training_effectiveness": 32,
+      "power_bonus": 6,
+      "initial_bond": 28,
+      "hint_levels": 3,
+      "hint_frequency": 38
+    },
+    "skills": ["Quantum Leap", "Tachyon Charge"],
+    "unique_effect": "Highest power training efficiency with hints"
+  },
+  {
+    "id": "ssr_manhattan_cafe_alt",
+    "name": "Manhattan Cafe",
+    "title": "Night Owl",
+    "image": "cards/manhattan_cafe_alt.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 24,
+      "skill_pt_bonus": 52,
+      "hint_levels": 3,
+      "wit_bonus": 5,
+      "wit_recovery": 35,
+      "initial_wit": 30
+    },
+    "skills": ["Night Owl", "Cafe Strategy"],
+    "unique_effect": "Best Wit recovery for Wit training"
+  },
+  {
+    "id": "ssr_satono_diamond_alt",
+    "name": "Satono Diamond",
+    "title": "Jewel Princess",
+    "image": "cards/satono_diamond_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "power_bonus": 5,
+      "initial_bond": 34,
+      "hint_levels": 3,
+      "hint_frequency": 35
+    },
+    "skills": ["Jewel Princess", "Diamond Charge"],
+    "unique_effect": "High initial bond for power training"
+  },
+  {
+    "id": "sr_satono_crown",
+    "name": "Satono Crown",
+    "title": "Royal Tiara",
+    "image": "cards/satono_crown.png",
+    "type": "wit",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 21,
+      "training_effectiveness": 16,
+      "initial_wit": 18,
+      "wit_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Royal Tiara", "Crown Wisdom"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_meisho_doto_alt",
+    "name": "Meisho Doto",
+    "title": "Autumn Leaves",
+    "image": "cards/meisho_doto_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 24,
+      "initial_stamina": 32,
+      "stamina_bonus": 5,
+      "hint_levels": 3,
+      "wit_recovery": 28
+    },
+    "skills": ["Autumn Leaves", "Doto's Poem"],
+    "unique_effect": "Increases hints for stamina"
+  },
+  {
+    "id": "r_daitaku_helios_alt",
+    "name": "Daitaku Helios",
+    "title": "Sunbeam",
+    "image": "cards/daitaku_helios_alt.png",
+    "type": "speed",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_speed": 14,
+      "speed_bonus": 2
+    },
+    "skills": ["Sunbeam"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_symboli_rudolf_alt",
+    "name": "Symboli Rudolf",
+    "title": "Emperor's March",
+    "image": "cards/symboli_rudolf_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 26,
+      "initial_stamina": 34,
+      "stamina_bonus": 5,
+      "wit_recovery": 30,
+      "specialty_priority": 68
+    },
+    "skills": ["Emperor's March", "Royal Procession"],
+    "unique_effect": "Increased specialty and stamina"
+  },
+  {
+    "id": "ssr_biwa_hayahide_alt",
+    "name": "Biwa Hayahide",
+    "title": "Morning Breeze",
+    "image": "cards/biwa_hayahide_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "specialty_priority": 66,
+      "mood_effect": 28
+    },
+    "skills": ["Morning Breeze", "Biwa Wind"],
+    "unique_effect": "Speed specialty and mood boost"
+  },
+  {
+    "id": "ssr_hishi_amazon_alt",
+    "name": "Hishi Amazon",
+    "title": "Jungle Queen",
+    "image": "cards/hishi_amazon_alt.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 28,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "initial_bond": 32,
+      "hint_frequency": 32
+    },
+    "skills": ["Jungle Queen", "Amazon Spirit"],
+    "unique_effect": "Increases bond gain for Guts"
+  },
+  {
+    "id": "ssr_admire_vega_alt",
+    "name": "Admire Vega",
+    "title": "Northern Lights",
+    "image": "cards/admire_vega_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 26,
+      "initial_stamina": 33,
+      "stamina_bonus": 5,
+      "specialty_priority": 68,
+      "initial_bond": 28
+    },
+    "skills": ["Northern Lights", "Vega's Shine"],
+    "unique_effect": "Enhanced stamina specialty priority"
+  },
+  {
+    "id": "sr_neutral_moon",
+    "name": "Neutral Moon",
+    "title": "Half Moon",
+    "image": "cards/neutral_moon.png",
+    "type": "friend",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 16,
+      "initial_bond": 25,
+      "mood_effect": 25,
+      "event_effectiveness": 25
+    },
+    "skills": ["Half Moon", "Neutral Cheer"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_copano_rickey_alt",
+    "name": "Copano Rickey",
+    "title": "Wild Spirit",
+    "image": "cards/copano_rickey_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 28,
+      "race_bonus": 18,
+      "hint_levels": 3
+    },
+    "skills": ["Wild Spirit", "Ricky Burst"],
+    "unique_effect": "Increases power race effectiveness"
+  },
+  {
+    "id": "ssr_daiwa_scarlet_alt",
+    "name": "Daiwa Scarlet",
+    "title": "Scarlet Blaze",
+    "image": "cards/daiwa_scarlet_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "hint_levels": 3,
+      "hint_frequency": 42
+    },
+    "skills": ["Scarlet Blaze", "Blaze Runner"],
+    "unique_effect": "High hint frequency for power"
+  },
+  {
+    "id": "ssr_king_halo_alt",
+    "name": "King Halo",
+    "title": "Royal Coronation",
+    "image": "cards/king_halo_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 27,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "hint_levels": 3,
+      "hint_frequency": 40
+    },
+    "skills": ["Royal Coronation", "King's Sprint"],
+    "unique_effect": "Speed training with high hint rate"
+  },
+  {
+    "id": "sr_narita_brian_alt2",
+    "name": "Narita Brian",
+    "title": "Wild Flame",
+    "image": "cards/narita_brian_alt2.png",
+    "type": "power",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 24,
+      "training_effectiveness": 20,
+      "power_bonus": 3,
+      "initial_bond": 22,
+      "hint_levels": 2
+    },
+    "skills": ["Wild Flame", "Brian Power"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_taiki_shuttle_alt",
+    "name": "Taiki Shuttle",
+    "title": "Space Run",
+    "image": "cards/taiki_shuttle_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 29,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "initial_bond": 30,
+      "mood_effect": 32
+    },
+    "skills": ["Space Run", "Shuttle Boost"],
+    "unique_effect": "High speed training with mood"
+  },
+  {
+    "id": "r_sakura_bakushin_o_alt",
+    "name": "Sakura Bakushin O",
+    "title": "Cherry Bomb",
+    "image": "cards/sakura_bakushin_o_alt.png",
+    "type": "speed",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_speed": 16,
+      "speed_bonus": 2
+    },
+    "skills": ["Cherry Bomb"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_fuji_kiseki_alt",
+    "name": "Fuji Kiseki",
+    "title": "Sacred Peak",
+    "image": "cards/fuji_kiseki_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 26,
+      "initial_stamina": 33,
+      "stamina_bonus": 5,
+      "mood_effect": 35,
+      "initial_bond": 28
+    },
+    "skills": ["Sacred Peak", "Fuji Summit"],
+    "unique_effect": "Mood and stamina training boost"
+  },
+  {
+    "id": "ssr_gold_city_alt",
+    "name": "Gold City",
+    "title": "Golden Rush",
+    "image": "cards/gold_city_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 28,
+      "initial_speed": 30,
+      "speed_bonus": 4,
+      "hint_frequency": 42,
+      "hint_levels": 3
+    },
+    "skills": ["Golden Rush", "City Sprint"],
+    "unique_effect": "High speed hint frequency"
+  },
+  {
+    "id": "ssr_seeking_the_pearl_alt",
+    "name": "Seeking the Pearl",
+    "title": "Deep Diver",
+    "image": "cards/seeking_the_pearl_alt.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 58,
+      "hint_levels": 3,
+      "wit_bonus": 5,
+      "initial_wit": 32
+    },
+    "skills": ["Deep Diver", "Pearl Wisdom"],
+    "unique_effect": "High skill point gain"
+  },
+  {
+    "id": "ssr_wonder_acute_alt",
+    "name": "Wonder Acute",
+    "title": "Brilliant Mind",
+    "image": "cards/wonder_acute_alt.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 26,
+      "skill_pt_bonus": 52,
+      "hint_levels": 4,
+      "wit_bonus": 5,
+      "initial_wit": 30
+    },
+    "skills": ["Brilliant Mind", "Acute Wisdom"],
+    "unique_effect": "Highest hint level for Wit"
+  },
+  {
+    "id": "sr_vermilion_alt",
+    "name": "Vermilion",
+    "title": "Red Sunset",
+    "image": "cards/vermilion_alt.png",
+    "type": "power",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "power_bonus": 3,
+      "initial_bond": 22,
+      "race_bonus": 12
+    },
+    "skills": ["Red Sunset", "Vermilion Power"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_yamanin_zephyr_alt",
+    "name": "Yamanin Zephyr",
+    "title": "Spring Wind",
+    "image": "cards/yamanin_zephyr_alt.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 26,
+      "training_effectiveness": 22,
+      "initial_bond": 38,
+      "mood_effect": 32,
+      "event_effectiveness": 32,
+      "wit_recovery": 22
+    },
+    "skills": ["Spring Wind", "Zephyr Support"],
+    "unique_effect": "High event and mood effectiveness"
+  },
+  {
+    "id": "ssr_matikane_tannhauser_alt",
+    "name": "Matikane Tannhauser",
+    "title": "Iron Wall",
+    "image": "cards/matikane_tannhauser_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 25,
+      "initial_stamina": 35,
+      "stamina_bonus": 6,
+      "specialty_priority": 66,
+      "initial_bond": 28
+    },
+    "skills": ["Iron Wall", "Tannhauser Guard"],
+    "unique_effect": "Highest stamina bonus"
+  },
+  {
+    "id": "sr_twin_turbo_alt",
+    "name": "Twin Turbo",
+    "title": "Dual Engine",
+    "image": "cards/twin_turbo_alt.png",
+    "type": "guts",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 20,
+      "initial_guts": 20,
+      "guts_bonus": 3,
+      "race_bonus": 10
+    },
+    "skills": ["Dual Engine", "Turbo Spirit"],
+    "unique_effect": null
+  },
+  {
+    "id": "r_sweep_tosho_alt",
+    "name": "Sweep Tosho",
+    "title": "Clean Sweep",
+    "image": "cards/sweep_tosho_alt.png",
+    "type": "speed",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_speed": 14,
+      "speed_bonus": 2
+    },
+    "skills": ["Clean Sweep"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_zenno_rob_roy_alt",
+    "name": "Zenno Rob Roy",
+    "title": "Iron Heart",
+    "image": "cards/zenno_rob_roy_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 26,
+      "initial_stamina": 34,
+      "stamina_bonus": 5,
+      "mood_effect": 28,
+      "initial_bond": 30
+    },
+    "skills": ["Iron Heart", "Roy's Will"],
+    "unique_effect": "Stamina training with mood stability"
+  },
+  {
+    "id": "ssr_sound_barrier_alt",
+    "name": "Sound Barrier",
+    "title": "Supersonic",
+    "image": "cards/sound_barrier_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "hint_levels": 3,
+      "hint_frequency": 38
+    },
+    "skills": ["Supersonic", "Sound Boost"],
+    "unique_effect": "High speed hint rate"
+  },
+  {
+    "id": "ssr_air_spinel_alt",
+    "name": "Air Spinel",
+    "title": "Gem Wind",
+    "image": "cards/air_spinel_alt.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 26,
+      "skill_pt_bonus": 55,
+      "hint_levels": 3,
+      "wit_bonus": 6,
+      "initial_wit": 32
+    },
+    "skills": ["Gem Wind", "Spinel Strategy"],
+    "unique_effect": "Wit and skill point bonus"
+  },
+  {
+    "id": "sr_neo_universe_alt",
+    "name": "Neo Universe",
+    "title": "Galaxy",
+    "image": "cards/neo_universe_alt.png",
+    "type": "wit",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "initial_wit": 20,
+      "wit_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Galaxy Mind", "Universe Wisdom"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_ines_fujin_alt",
+    "name": "Ines Fujin",
+    "title": "Typhoon",
+    "image": "cards/ines_fujin_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 30,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "mood_effect": 32,
+      "initial_bond": 26
+    },
+    "skills": ["Typhoon Run", "Fujin Storm"],
+    "unique_effect": "Good mood and speed training"
+  },
+  {
+    "id": "ssr_mejiro_dober_alt",
+    "name": "Mejiro Dober",
+    "title": "Fang of Justice",
+    "image": "cards/mejiro_dober_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 24,
+      "initial_stamina": 32,
+      "stamina_bonus": 5,
+      "initial_bond": 34,
+      "wit_recovery": 30
+    },
+    "skills": ["Fang of Justice", "Dober Guard"],
+    "unique_effect": "High bond and recovery"
+  },
+  {
+    "id": "r_mejiro_ryan_alt",
+    "name": "Mejiro Ryan",
+    "title": "Gentle Wind",
+    "image": "cards/mejiro_ryan_alt.png",
+    "type": "speed",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_speed": 14,
+      "speed_bonus": 2
+    },
+    "skills": ["Gentle Wind"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_mayano_top_gun_alt",
+    "name": "Mayano Top Gun",
+    "title": "Ace Pilot",
+    "image": "cards/mayano_top_gun_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 15,
+      "hint_levels": 3
+    },
+    "skills": ["Ace Pilot", "Top Gunner"],
+    "unique_effect": "Power race effectiveness"
+  },
+  {
+    "id": "sr_eishin_flash_alt",
+    "name": "Eishin Flash",
+    "title": "Lightning",
+    "image": "cards/eishin_flash_alt.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 23,
+      "training_effectiveness": 18,
+      "initial_speed": 20,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Lightning", "Flash Sprint"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_astromon_alt",
+    "name": "Astromon",
+    "title": "Galaxy Walker",
+    "image": "cards/astromon_alt.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 33,
+      "guts_bonus": 5,
+      "initial_guts": 32,
+      "race_bonus": 14,
+      "hint_frequency": 32
+    },
+    "skills": ["Galaxy Walker", "Astro Guts"],
+    "unique_effect": "High Guts training effectiveness"
+  },
+  {
+    "id": "ssr_duramante_alt",
+    "name": "Duramente",
+    "title": "Diamond Heart",
+    "image": "cards/duramante_alt.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 26,
+      "initial_stamina": 35,
+      "stamina_bonus": 5,
+      "initial_bond": 30,
+      "wit_recovery": 32
+    },
+    "skills": ["Diamond Heart", "Durable Will"],
+    "unique_effect": "Recovery and stamina bonus"
+  },
+  {
+    "id": "ssr_mejiro_palma_alt",
+    "name": "Mejiro Palma",
+    "title": "Tropical Paradise",
+    "image": "cards/mejiro_palma_alt.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 20,
+      "initial_bond": 36,
+      "mood_effect": 35,
+      "event_effectiveness": 30,
+      "wit_recovery": 25
+    },
+    "skills": ["Tropical Cheer", "Palma Support"],
+    "unique_effect": "Friend type with high event effectiveness"
+  },
+  {
+    "id": "sr_super_creek_alt",
+    "name": "Super Creek",
+    "title": "Stream of Life",
+    "image": "cards/super_creek_alt.png",
+    "type": "stamina",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 17,
+      "initial_stamina": 20,
+      "stamina_bonus": 3,
+      "initial_bond": 22
+    },
+    "skills": ["Stream of Life", "Creek Flow"],
+    "unique_effect": null
+  },
+  {
+    "id": "r_nice_nature_alt",
+    "name": "Nice Nature",
+    "title": "Kind Heart",
+    "image": "cards/nice_nature_alt.png",
+    "type": "friend",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_bond": 15,
+      "mood_effect": 10
+    },
+    "skills": ["Kind Heart"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_narita_taishin_alt",
+    "name": "Narita Taishin",
+    "title": "Comet",
+    "image": "cards/narita_taishin_alt.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 30,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 15,
+      "fan_bonus": 18
+    },
+    "skills": ["Comet Guts", "Taishin Spirit"],
+    "unique_effect": "Guts race effectiveness"
+  },
+  {
+    "id": "ssr_bubble_gum_joke_alt",
+    "name": "Bubble Gum Joke",
+    "title": "Sweet Laughter",
+    "image": "cards/bubble_gum_joke_alt.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 25,
+      "training_effectiveness": 20,
+      "initial_bond": 35,
+      "mood_effect": 35,
+      "event_effectiveness": 30,
+      "wit_recovery": 25
+    },
+    "skills": ["Sweet Laughter", "Joke Support"],
+    "unique_effect": "Mood and bond for friend type"
+  },
+  {
+    "id": "ssr_hishi_akebono_alt",
+    "name": "Hishi Akebono",
+    "title": "First Light",
+    "image": "cards/hishi_akebono_alt.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 18,
+      "hint_levels": 3
+    },
+    "skills": ["First Light", "Akebono Power"],
+    "unique_effect": "Power training with race bonus"
+  },
+  {
+    "id": "ssr_sakura_laurel_alt",
+    "name": "Sakura Laurel",
+    "title": "Spring Wreath",
+    "image": "cards/sakura_laurel_alt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 28,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "hint_levels": 3,
+      "hint_frequency": 40
+    },
+    "skills": ["Spring Wreath", "Laurel Sprint"],
+    "unique_effect": "Speed training with hints"
+  },
+  {
+    "id": "sr_heiden_alt",
+    "name": "Heiden",
+    "title": "Secret Power",
+    "image": "cards/heiden_alt.png",
+    "type": "guts",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "initial_guts": 20,
+      "guts_bonus": 3,
+      "race_bonus": 10
+    },
+    "skills": ["Secret Power", "Heiden Guts"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_win_variation_alt",
+    "name": "Win Variation",
+    "title": "Champion Dance",
+    "image": "cards/win_variation_alt.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 22,
+      "initial_bond": 35,
+      "mood_effect": 30,
+      "event_effectiveness": 30,
+      "wit_recovery": 25
+    },
+    "skills": ["Champion Dance", "Win Cheer"],
+    "unique_effect": "Friend type with balanced support"
+  },
+  {
+    "id": "ssr_admire_vega_third",
+    "name": "Admire Vega",
+    "title": "Star Compass",
+    "image": "cards/admire_vega_third.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 27,
+      "initial_stamina": 34,
+      "stamina_bonus": 5,
+      "specialty_priority": 68,
+      "initial_bond": 30
+    },
+    "skills": ["Star Compass", "Vega Navigate"],
+    "unique_effect": "Stamina specialty and bond"
+  },
+  {
+    "id": "ssr_narita_top_road_third",
+    "name": "Narita Top Road",
+    "title": "Peak Performance",
+    "image": "cards/narita_top_road_third.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 32,
+      "guts_bonus": 5,
+      "initial_guts": 32,
+      "race_bonus": 18,
+      "fan_bonus": 20
+    },
+    "skills": ["Peak Performance", "Top Guts"],
+    "unique_effect": "Guts training effectiveness"
+  },
+  {
+    "id": "ssr_manhattan_cafe_third",
+    "name": "Manhattan Cafe",
+    "title": "Starry Night",
+    "image": "cards/manhattan_cafe_third.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 55,
+      "hint_levels": 3,
+      "wit_bonus": 5,
+      "wit_recovery": 35,
+      "initial_wit": 30
+    },
+    "skills": ["Starry Night", "Cafe Brew"],
+    "unique_effect": "Wit recovery bonus"
+  },
+  {
+    "id": "ssr_miracle_flower",
+    "name": "Miracle Flower",
+    "title": "Cherry Blossom",
+    "image": "cards/miracle_flower.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 27,
+      "training_effectiveness": 22,
+      "initial_bond": 36,
+      "mood_effect": 35,
+      "event_effectiveness": 32,
+      "wit_recovery": 24
+    },
+    "skills": ["Cherry Blossom", "Flower Cheer"],
+    "unique_effect": "Mood and event effectiveness"
+  },
+  {
+    "id": "ssr_miracle_ocean",
+    "name": "Miracle Ocean",
+    "title": "Deep Blue",
+    "image": "cards/miracle_ocean.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 25,
+      "initial_stamina": 34,
+      "stamina_bonus": 5,
+      "wit_recovery": 32,
+      "initial_bond": 30
+    },
+    "skills": ["Deep Blue", "Ocean Endurance"],
+    "unique_effect": "Stamina and recovery"
+  },
+  {
+    "id": "sr_miracle_forest",
+    "name": "Miracle Forest",
+    "title": "Woodland",
+    "image": "cards/miracle_forest.png",
+    "type": "power",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "power_bonus": 3,
+      "initial_bond": 22,
+      "hint_levels": 2
+    },
+    "skills": ["Woodland Power", "Forest Charge"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_mountain",
+    "name": "Miracle Mountain",
+    "title": "Summit Peak",
+    "image": "cards/miracle_mountain.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 32,
+      "guts_bonus": 5,
+      "initial_guts": 32,
+      "race_bonus": 15,
+      "fan_bonus": 18
+    },
+    "skills": ["Summit Peak", "Mountain Guts"],
+    "unique_effect": "Guts training with fans"
+  },
+  {
+    "id": "ssr_miracle_galaxy",
+    "name": "Miracle Galaxy",
+    "title": "Milky Way",
+    "image": "cards/miracle_galaxy.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 58,
+      "hint_levels": 3,
+      "wit_bonus": 6,
+      "initial_wit": 32
+    },
+    "skills": ["Milky Way", "Galaxy Mind"],
+    "unique_effect": "Skill point and wit bonus"
+  },
+  {
+    "id": "ssr_miracle_thunder",
+    "name": "Miracle Thunder",
+    "title": "Lightning Bolt",
+    "image": "cards/miracle_thunder.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 30,
+      "power_bonus": 6,
+      "initial_bond": 28,
+      "race_bonus": 18,
+      "fan_bonus": 18
+    },
+    "skills": ["Lightning Bolt", "Thunder Power"],
+    "unique_effect": "Power training with race"
+  },
+  {
+    "id": "ssr_miracle_aurora",
+    "name": "Miracle Aurora",
+    "title": "Northern Lights",
+    "image": "cards/miracle_aurora.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "specialty_priority": 68,
+      "mood_effect": 30
+    },
+    "skills": ["Northern Lights", "Aurora Dash"],
+    "unique_effect": "Speed with mood and specialty"
+  },
+  {
+    "id": "sr_miracle_sunset",
+    "name": "Miracle Sunset",
+    "title": "Golden Hour",
+    "image": "cards/miracle_sunset.png",
+    "type": "friend",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 16,
+      "initial_bond": 25,
+      "mood_effect": 20,
+      "event_effectiveness": 25
+    },
+    "skills": ["Golden Hour", "Sunset Cheer"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_crystal",
+    "name": "Miracle Crystal",
+    "title": "Prism Light",
+    "image": "cards/miracle_crystal.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 24,
+      "skill_pt_bonus": 55,
+      "hint_levels": 3,
+      "wit_bonus": 5,
+      "initial_wit": 30
+    },
+    "skills": ["Prism Light", "Crystal Strategy"],
+    "unique_effect": "Balanced Wit training"
+  },
+  {
+    "id": "r_miracle_dream",
+    "name": "Miracle Dream",
+    "title": "Sweet Dream",
+    "image": "cards/miracle_dream.png",
+    "type": "power",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "power_bonus": 2,
+      "initial_bond": 12
+    },
+    "skills": ["Sweet Dream"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_phoenix",
+    "name": "Miracle Phoenix",
+    "title": "Flame Reborn",
+    "image": "cards/miracle_phoenix.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 33,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 15,
+      "hint_frequency": 35
+    },
+    "skills": ["Flame Reborn", "Phoenix Guts"],
+    "unique_effect": "Guts hint frequency"
+  },
+  {
+    "id": "ssr_miracle_ice",
+    "name": "Miracle Ice",
+    "title": "Frozen Heart",
+    "image": "cards/miracle_ice.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 24,
+      "initial_stamina": 33,
+      "stamina_bonus": 5,
+      "mood_effect": 30,
+      "initial_bond": 30
+    },
+    "skills": ["Frozen Heart", "Ice Endurance"],
+    "unique_effect": "Stamina with mood"
+  },
+  {
+    "id": "ssr_miracle_fire",
+    "name": "Miracle Fire",
+    "title": "Burning Soul",
+    "image": "cards/miracle_fire.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 18,
+      "hint_levels": 3
+    },
+    "skills": ["Burning Soul", "Fire Power"],
+    "unique_effect": "Power with race"
+  },
+  {
+    "id": "sr_miracle_wind",
+    "name": "Miracle Wind",
+    "title": "Breeze",
+    "image": "cards/miracle_wind.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 17,
+      "initial_speed": 18,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Breeze Dash", "Wind Runner"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_storm",
+    "name": "Miracle Storm",
+    "title": "Tempest",
+    "image": "cards/miracle_storm.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 31,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "fan_bonus": 20,
+      "race_bonus": 12
+    },
+    "skills": ["Tempest Guts", "Storm Spirit"],
+    "unique_effect": "Guts with fan bonus"
+  },
+  {
+    "id": "r_miracle_river",
+    "name": "Miracle River",
+    "title": "Stream",
+    "image": "cards/miracle_river.png",
+    "type": "stamina",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_stamina": 14,
+      "stamina_bonus": 2
+    },
+    "skills": ["Stream Flow"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_star_ssr",
+    "name": "Miracle Star",
+    "title": "Shining Light",
+    "image": "cards/miracle_star_ssr.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 22,
+      "initial_bond": 36,
+      "mood_effect": 35,
+      "event_effectiveness": 32,
+      "wit_recovery": 25
+    },
+    "skills": ["Shining Light", "Star Support"],
+    "unique_effect": "Friend type balanced"
+  },
+  {
+    "id": "ssr_miracle_light",
+    "name": "Miracle Light",
+    "title": "Photon",
+    "image": "cards/miracle_light.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "specialty_priority": 68,
+      "initial_bond": 28
+    },
+    "skills": ["Photon Dash", "Light Speed"],
+    "unique_effect": "Speed specialty"
+  },
+  {
+    "id": "ssr_miracle_shadow",
+    "name": "Miracle Shadow",
+    "title": "Darkness",
+    "image": "cards/miracle_shadow.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 28,
+      "race_bonus": 20,
+      "hint_levels": 3
+    },
+    "skills": ["Darkness Power", "Shadow Charge"],
+    "unique_effect": "Power with race bonus"
+  },
+  {
+    "id": "sr_miracle_silver",
+    "name": "Miracle Silver",
+    "title": "Moonlight",
+    "image": "cards/miracle_silver.png",
+    "type": "wit",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "initial_wit": 20,
+      "wit_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Moonlight Wisdom", "Silver Mind"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_gold",
+    "name": "Miracle Gold",
+    "title": "Sunlight",
+    "image": "cards/miracle_gold.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 32,
+      "guts_bonus": 5,
+      "initial_guts": 32,
+      "race_bonus": 15,
+      "fan_bonus": 20
+    },
+    "skills": ["Sunlight Guts", "Gold Spirit"],
+    "unique_effect": "Guts with fan bonus"
+  },
+  {
+    "id": "ssr_miracle_rainbow",
+    "name": "Miracle Rainbow",
+    "title": "Colorful",
+    "image": "cards/miracle_rainbow.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 20,
+      "initial_bond": 38,
+      "mood_effect": 35,
+      "event_effectiveness": 32,
+      "wit_recovery": 25
+    },
+    "skills": ["Colorful Cheer", "Rainbow Support"],
+    "unique_effect": "Friend with max bond"
+  },
+  {
+    "id": "ssr_miracle_spring",
+    "name": "Miracle Spring",
+    "title": "Fresh Start",
+    "image": "cards/miracle_spring.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 25,
+      "initial_stamina": 33,
+      "stamina_bonus": 5,
+      "wit_recovery": 32,
+      "initial_bond": 30
+    },
+    "skills": ["Fresh Start", "Spring Endurance"],
+    "unique_effect": "Stamina recovery"
+  },
+  {
+    "id": "ssr_miracle_summer",
+    "name": "Miracle Summer",
+    "title": "Hot Sun",
+    "image": "cards/miracle_summer.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "mood_effect": 35,
+      "initial_bond": 28
+    },
+    "skills": ["Hot Sun Dash", "Summer Sprint"],
+    "unique_effect": "Speed with mood"
+  },
+  {
+    "id": "r_miracle_autumn",
+    "name": "Miracle Autumn",
+    "title": "Falling Leaves",
+    "image": "cards/miracle_autumn.png",
+    "type": "guts",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 10,
+      "initial_guts": 12,
+      "guts_bonus": 2
+    },
+    "skills": ["Falling Leaves"],
+    "unique_effect": null
+  },
+  {
+    "id": "sr_miracle_winter",
+    "name": "Miracle Winter",
+    "title": "Snowfall",
+    "image": "cards/miracle_winter.png",
+    "type": "stamina",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 17,
+      "initial_stamina": 20,
+      "stamina_bonus": 3,
+      "initial_bond": 20
+    },
+    "skills": ["Snowfall", "Winter Endurance"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_cosmos",
+    "name": "Miracle Cosmos",
+    "title": "Universe",
+    "image": "cards/miracle_cosmos.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 58,
+      "hint_levels": 3,
+      "wit_bonus": 6,
+      "initial_wit": 32
+    },
+    "skills": ["Universe Mind", "Cosmos Strategy"],
+    "unique_effect": "Wit with skill points"
+  },
+  {
+    "id": "ssr_miracle_solar",
+    "name": "Miracle Solar",
+    "title": "Sun Power",
+    "image": "cards/miracle_solar.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 18,
+      "fan_bonus": 20
+    },
+    "skills": ["Sun Power", "Solar Charge"],
+    "unique_effect": "Power with fan gain"
+  },
+  {
+    "id": "ssr_miracle_lunar",
+    "name": "Miracle Lunar",
+    "title": "Moon Power",
+    "image": "cards/miracle_lunar.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 27,
+      "training_effectiveness": 20,
+      "initial_bond": 36,
+      "mood_effect": 35,
+      "event_effectiveness": 32,
+      "wit_recovery": 24
+    },
+    "skills": ["Moon Power", "Lunar Cheer"],
+    "unique_effect": "Friend event effectiveness"
+  },
+  {
+    "id": "sr_miracle_comet",
+    "name": "Miracle Comet",
+    "title": "Tails of Light",
+    "image": "cards/miracle_comet.png",
+    "type": "speed",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 23,
+      "training_effectiveness": 18,
+      "initial_speed": 20,
+      "speed_bonus": 3,
+      "hint_levels": 2
+    },
+    "skills": ["Comet Dash", "Tail Light"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_echo",
+    "name": "Miracle Echo",
+    "title": "Resonance",
+    "image": "cards/miracle_echo.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 26,
+      "initial_stamina": 34,
+      "stamina_bonus": 5,
+      "wit_recovery": 30,
+      "specialty_priority": 66
+    },
+    "skills": ["Resonance", "Echo Endurance"],
+    "unique_effect": "Stamina specialty recovery"
+  },
+  {
+    "id": "ssr_miracle_blaze",
+    "name": "Miracle Blaze",
+    "title": "Firestorm",
+    "image": "cards/miracle_blaze.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 30,
+      "power_bonus": 6,
+      "initial_bond": 28,
+      "race_bonus": 20,
+      "fan_bonus": 20
+    },
+    "skills": ["Firestorm", "Blaze Power"],
+    "unique_effect": "Power race bonus"
+  },
+  {
+    "id": "ssr_miracle_frost",
+    "name": "Miracle Frost",
+    "title": "Ice Age",
+    "image": "cards/miracle_frost.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 33,
+      "guts_bonus": 5,
+      "initial_guts": 32,
+      "race_bonus": 15,
+      "hint_frequency": 35
+    },
+    "skills": ["Ice Age", "Frost Guts"],
+    "unique_effect": "Guts hint frequency"
+  },
+  {
+    "id": "ssr_miracle_volt",
+    "name": "Miracle Volt",
+    "title": "Electric",
+    "image": "cards/miracle_volt.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "specialty_priority": 68,
+      "mood_effect": 30
+    },
+    "skills": ["Electric Dash", "Volt Sprint"],
+    "unique_effect": "Speed specialty"
+  },
+  {
+    "id": "r_miracle_wave",
+    "name": "Miracle Wave",
+    "title": "Tidal",
+    "image": "cards/miracle_wave.png",
+    "type": "stamina",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "initial_stamina": 14,
+      "stamina_bonus": 2
+    },
+    "skills": ["Tidal Flow"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_symphony",
+    "name": "Miracle Symphony",
+    "title": "Harmony",
+    "image": "cards/miracle_symphony.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 55,
+      "hint_levels": 4,
+      "wit_bonus": 5,
+      "initial_wit": 30
+    },
+    "skills": ["Harmony", "Symphony Mind"],
+    "unique_effect": "Wit with highest hint level"
+  },
+  {
+    "id": "ssr_miracle_rhythm",
+    "name": "Miracle Rhythm",
+    "title": "Beat",
+    "image": "cards/miracle_rhythm.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "initial_speed": 30,
+      "speed_bonus": 5,
+      "mood_effect": 35,
+      "specialty_priority": 65
+    },
+    "skills": ["Beat Dash", "Rhythm Sprint"],
+    "unique_effect": "Speed with mood and specialty"
+  },
+  {
+    "id": "ssr_miracle_melody",
+    "name": "Miracle Melody",
+    "title": "Song",
+    "image": "cards/miracle_melody.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 22,
+      "initial_bond": 36,
+      "mood_effect": 35,
+      "event_effectiveness": 30,
+      "wit_recovery": 25
+    },
+    "skills": ["Song of Cheer", "Melody Support"],
+    "unique_effect": "Friend with event focus"
+  },
+  {
+    "id": "ssr_miracle_harmony",
+    "name": "Miracle Harmony",
+    "title": "Balance",
+    "image": "cards/miracle_harmony.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 32,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 15,
+      "fan_bonus": 18
+    },
+    "skills": ["Balance Guts", "Harmony Spirit"],
+    "unique_effect": "Guts with fan bonus"
+  },
+  {
+    "id": "ssr_miracle_crescendo",
+    "name": "Miracle Crescendo",
+    "title": "Climax",
+    "image": "cards/miracle_crescendo.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 37,
+      "training_effectiveness": 30,
+      "power_bonus": 5,
+      "initial_bond": 30,
+      "race_bonus": 20,
+      "hint_levels": 3
+    },
+    "skills": ["Climax Power", "Crescendo Charge"],
+    "unique_effect": "Power with race"
+  },
+  {
+    "id": "sr_miracle_ballad",
+    "name": "Miracle Ballad",
+    "title": "Story",
+    "image": "cards/miracle_ballad.png",
+    "type": "stamina",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 17,
+      "initial_stamina": 20,
+      "stamina_bonus": 3,
+      "initial_bond": 22
+    },
+    "skills": ["Story Endurance", "Ballad Flow"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_sonic",
+    "name": "Miracle Sonic",
+    "title": "Supersonic Wave",
+    "image": "cards/miracle_sonic.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "hint_levels": 3,
+      "hint_frequency": 40
+    },
+    "skills": ["Supersonic Wave", "Sonic Dash"],
+    "unique_effect": "Speed hint frequency"
+  },
+  {
+    "id": "ssr_miracle_radiant",
+    "name": "Miracle Radiant",
+    "title": "Glow",
+    "image": "cards/miracle_radiant.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 32,
+      "training_effectiveness": 24,
+      "skill_pt_bonus": 55,
+      "hint_levels": 3,
+      "wit_bonus": 6,
+      "initial_wit": 32
+    },
+    "skills": ["Glow Wisdom", "Radiant Strategy"],
+    "unique_effect": "Wit with skill points"
+  },
+  {
+    "id": "r_miracle_spark",
+    "name": "Miracle Spark",
+    "title": "Little Light",
+    "image": "cards/miracle_spark.png",
+    "type": "power",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 10,
+      "training_effectiveness": 8,
+      "power_bonus": 2,
+      "initial_bond": 12
+    },
+    "skills": ["Little Light"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_beacon",
+    "name": "Miracle Beacon",
+    "title": "Guide",
+    "image": "cards/miracle_beacon.png",
+    "type": "friend",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 28,
+      "training_effectiveness": 20,
+      "initial_bond": 38,
+      "mood_effect": 35,
+      "event_effectiveness": 30,
+      "wit_recovery": 25
+    },
+    "skills": ["Guide Light", "Beacon Support"],
+    "unique_effect": "Friend bond focus"
+  },
+  {
+    "id": "ssr_miracle_ember",
+    "name": "Miracle Ember",
+    "title": "Small Flame",
+    "image": "cards/miracle_ember.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 30,
+      "training_effectiveness": 32,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "race_bonus": 15,
+      "hint_frequency": 35
+    },
+    "skills": ["Small Flame", "Ember Guts"],
+    "unique_effect": "Guts hint"
+  },
+  {
+    "id": "ssr_miracle_wildfire",
+    "name": "Miracle Wildfire",
+    "title": "Inferno",
+    "image": "cards/miracle_wildfire.png",
+    "type": "power",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "power_bonus": 6,
+      "initial_bond": 28,
+      "race_bonus": 18,
+      "fan_bonus": 20
+    },
+    "skills": ["Inferno", "Wildfire Power"],
+    "unique_effect": "Power with fan"
+  },
+  {
+    "id": "sr_miracle_glacier",
+    "name": "Miracle Glacier",
+    "title": "Ice Flow",
+    "image": "cards/miracle_glacier.png",
+    "type": "stamina",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 17,
+      "initial_stamina": 22,
+      "stamina_bonus": 3,
+      "initial_bond": 20
+    },
+    "skills": ["Ice Flow", "Glacier Endurance"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_zenith",
+    "name": "Miracle Zenith",
+    "title": "Peak",
+    "image": "cards/miracle_zenith.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 35,
+      "training_effectiveness": 28,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "specialty_priority": 68,
+      "initial_bond": 30
+    },
+    "skills": ["Peak Dash", "Zenith Sprint"],
+    "unique_effect": "Speed peak performance"
+  },
+  {
+    "id": "ssr_miracle_abyss",
+    "name": "Miracle Abyss",
+    "title": "Deep",
+    "image": "cards/miracle_abyss.png",
+    "type": "stamina",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 34,
+      "training_effectiveness": 26,
+      "initial_stamina": 34,
+      "stamina_bonus": 5,
+      "wit_recovery": 32,
+      "mood_effect": 25
+    },
+    "skills": ["Deep Endurance", "Abyss Flow"],
+    "unique_effect": "Stamina with recovery"
+  },
+  {
+    "id": "ssr_miracle_horizon",
+    "name": "Miracle Horizon",
+    "title": "Far Away",
+    "image": "cards/miracle_horizon.png",
+    "type": "guts",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 31,
+      "training_effectiveness": 30,
+      "guts_bonus": 5,
+      "initial_guts": 30,
+      "fan_bonus": 20,
+      "race_bonus": 15
+    },
+    "skills": ["Far Away", "Horizon Guts"],
+    "unique_effect": "Guts far training"
+  },
+  {
+    "id": "ssr_miracle_nexus",
+    "name": "Miracle Nexus",
+    "title": "Center",
+    "image": "cards/miracle_nexus.png",
+    "type": "wit",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 33,
+      "training_effectiveness": 25,
+      "skill_pt_bonus": 58,
+      "hint_levels": 3,
+      "wit_bonus": 6,
+      "initial_wit": 30
+    },
+    "skills": ["Center Mind", "Nexus Strategy"],
+    "unique_effect": "Wit center training"
+  },
+  {
+    "id": "r_miracle_coral",
+    "name": "Miracle Coral",
+    "title": "Reef",
+    "image": "cards/miracle_coral.png",
+    "type": "friend",
+    "rarity": "r",
+    "effects": {
+      "friendship_bonus": 8,
+      "training_effectiveness": 6,
+      "initial_bond": 14,
+      "mood_effect": 10
+    },
+    "skills": ["Reef Cheer"],
+    "unique_effect": null
+  },
+  {
+    "id": "sr_miracle_tide",
+    "name": "Miracle Tide",
+    "title": "Ebb and Flow",
+    "image": "cards/miracle_tide.png",
+    "type": "power",
+    "rarity": "sr",
+    "effects": {
+      "friendship_bonus": 22,
+      "training_effectiveness": 18,
+      "power_bonus": 3,
+      "initial_bond": 22,
+      "hint_levels": 2
+    },
+    "skills": ["Ebb and Flow", "Tide Power"],
+    "unique_effect": null
+  },
+  {
+    "id": "ssr_miracle_asteroid",
+    "name": "Miracle Asteroid",
+    "title": "Shooting Star",
+    "image": "cards/miracle_asteroid.png",
+    "type": "speed",
+    "rarity": "ssr",
+    "effects": {
+      "friendship_bonus": 36,
+      "training_effectiveness": 30,
+      "initial_speed": 32,
+      "speed_bonus": 5,
+      "specialty_priority": 68,
+      "initial_bond": 28
+    },
+    "skills": ["Shooting Star", "Asteroid Dash"],
+    "unique_effect": "Speed shooting star effect"
   }
 ]
