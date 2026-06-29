@@ -1,0 +1,7 @@
+# Review package: 0dc090c..fdb3e12
+## Commits
+fdb3e12 feat: add repository providers
+## Files changed
+ lib/core/providers/repository_providers.dart | 13 +++++++++++++  1 file changed, 13 insertions(+)
+## Diff
+diff --git a/lib/core/providers/repository_providers.dart b/lib/core/providers/repository_providers.dart new file mode 100644 index 0000000..6c358f3 --- /dev/null +++ b/lib/core/providers/repository_providers.dart @@ -0,0 +1,13 @@ +import 'package:flutter_riverpod/flutter_riverpod.dart'; +import 'package:uma_cards/core/repositories/card_repository.dart'; +import 'package:uma_cards/core/repositories/local_card_repository.dart'; +import 'package:uma_cards/core/repositories/deck_repository.dart'; +import 'package:uma_cards/core/repositories/local_deck_repository.dart'; + +final cardRepositoryProvider = Provider<CardRepository>((ref) { +  return LocalCardRepository(); +}); + +final deckRepositoryProvider = Provider<DeckRepository>((ref) { +  return LocalDeckRepository(); +});
